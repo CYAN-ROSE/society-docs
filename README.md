@@ -1,4 +1,4 @@
-# Society of the Cyan Rose
+# Society of the Cyan Rose Docs
 
 This is the internal documentation for the politically progressive content
 creation group *Society of the Cyan Rose*.
