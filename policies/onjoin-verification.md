@@ -1,5 +1,18 @@
-## On-Join Verification
+# On-Join Verification
 *draft, messy, consent not yet acquired*
+
+## Possible Questions:
+ - name
+   - can also be an alias. just whatever they want to be called
+ - age
+   - can be exact birthday, age in years, or just a range like "18+"
+ - reason for joining
+ - political leaning
+   - this is so we can understand where each other are coming from more easily.
+     should refer to one's actual ideology, not necessarily a party they
+     support. doesn't necessarily have to use "correct" political jargon
+
+## idk
 
 Using an Application Form, we can ask a set of questions to each user attempting
 to join. These questions will be sent to moderation for review. We can use this
