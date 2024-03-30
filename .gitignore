@@ -1,6 +1,2 @@
-# Most of our stuff should not be confidential, but this is here just in case.
-confidential
-
-# I'm thinking that by convention, we can use this folder for files that we
-# don't really intend to save at all, like Git Diffs and stuff.
-local-temp
+# temporary files that we don't intend to save, like git diffs
+temp/*

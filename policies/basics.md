@@ -20,6 +20,9 @@
 ## Dictionary
 
 TODO: evaluate if dictionary necessary, make sure definitions are meaningful
+ - May: I think that some terms could totally use clarification, but it has to,
+   like, matter? I think "injustice," "consent," and "system" should totally be
+   clarified, for example.
 
 | Term | Definition |
 |------|------------|

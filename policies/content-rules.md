@@ -15,6 +15,12 @@
    licenses unless there is some practical reason not to use such a license.
 
 ## Quality Guidelines
-1. TODO: on topics
-2. TODO: on presentation and aesthetic quality
-3. TODO: on conciseness, clarity, and thoroughness
+1. TODO: topics
+2. Try to be very correct and rational.
+   - Do all necessary research and/or testing.
+   - Don't lie, even by omission.
+3. Present the information in a way that people will actually stick around for.
+   - Be clear and reasonably concise.
+   - Try not to be boring!
+   - Make sure your sound and visuals are decent!
+     - ...*especially* sound.
