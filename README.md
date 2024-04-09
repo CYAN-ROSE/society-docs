@@ -1,13 +1,37 @@
-# Society of the Cyan Rose Docs
+# The Society of the Cyan Rose
 
-This is the internal documentation for the politically progressive content
-creation group *Society of the Cyan Rose*.
-It's public on GitHub to keep us accountable and stuff!
+These are the internal-ish documents for the politically progressive content
+creation group *Society of the Cyan Rose*, including our internal policies,
+goals, and maybe other things at some point.
 
-We try to give people info they can reasonably apply in their lives for the
-better, rather than just covering more theoretical or out-of-reach topics.
+ - For our *video scripts*, which are all free to distribute and adapt
+   (mostly [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)),
+   see [this repository](https://github.com/Society-of-the-Cyan-Rose/scripts).
 
-Our current profile picture is an edited version of
-[this photograph](https://commons.wikimedia.org/wiki/File:Rose_-_DPLA_-_1ecd0c78d44aed8c7f3abf7f3ccc8dc7.jpg),
-taken in 1992 by David E. Lucas
-and contributed to Wikimedia Commons by Columbus Metropolitan Library.
+## Mission Statement
+
+TODO: rewrite to be more concise, easier to understand for people who are not
+already familiar with what I'm talking about, and possibly more correct
+
+A lot of online progressive content covers subjects
+that are very hard for ordinary people to do much about.
+
+For the activities of politicians and their goons,
+a person can vote, protest, and lobby,
+but opportunities to do those things are relatively infrequent,
+not everyone can do them safely or at all,
+and it's unlikely that you will make significant systemic and cultural change
+through political institutions.
+
+It's *absolutely* important to do those things and to be informed,
+but they aren't sufficient alone,
+especially when so much is really controlled
+by mostly-unaccountable businesspeople.
+Listening to depressing news that they can't do much about
+will mostly just make a person depressed.
+
+We're here to help convince more people to care about specific causes
+and, importantly, *help them take direct action*.
+
+To accomplish that, we create and distribute media to inform and advise people
+about causes we find important.

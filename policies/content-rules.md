@@ -8,11 +8,16 @@
 
 ## Licensing & Attribution
 1. Prefer to use copyleft, libre, and public-domain assets.
+   - [Wikimedia Commons](https://commons.wikimedia.org) is one good place to
+     find them. It's run by the same organization as Wikipedia and allows you to
+     search by media type, license, and keywords.
 2. Always credit creators, unless either:
-   - They asked you not to.
-   - They're definitely problematic and the license doesn't require attribution.
+   1. They asked you not to.
+   2. They're definitely problematic
+      and the license doesn't require attribution.
 3. Our content should be released under appropriate copyleft or public-domain
    licenses unless there is some practical reason not to use such a license.
+   - Typically, we should use CC-BY-SA 4.0.
 
 ## Quality Guidelines
 1. TODO: topics
