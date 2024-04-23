@@ -6,7 +6,7 @@ goals, and maybe other things at some point.
 
  - For our *video scripts*, which are all free to distribute and adapt
    (mostly [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)),
-   see [this repository](https://github.com/Society-of-the-Cyan-Rose/scripts).
+   see [this repository](https://github.com/CYAN-ROSE/scripts).
 
 ## Mission Statement
 
